@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+  
+}
+body{
+    background-image: url(/img/book.jpg);
+    background-size: 1600px 750px;
+    background-repeat: no-repeat;
+}
+
+.img1 {
+
+  margin-top: 80px;
+  margin-left: 280px;
+
+ 
+}
+
+.img2{
+    margin-top: -18px;
+    margin-left:1205px;
+
+}
+.img3{
+    
+    margin-top: 495px;
+    margin-left:1433px;
+}
+.img4{
+    margin-top: -640px;
+    margin-left: 530px;
+   
+}
+.img5{
+margin-top: 235px;
+margin-left: 515px;
+}
+
