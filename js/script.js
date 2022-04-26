@@ -3,6 +3,8 @@ const som2 = document.getElementById('m2')
 const som3 = document.getElementById('m3')
 const som4= document.getElementById('m4')
 const som5= document.getElementById('m5')
+const som6= document.getElementById('m6')
+
 
 img1.addEventListener('click', ()=>{
     som1.src = "./audio/chuva.mp3"
@@ -25,4 +27,9 @@ img4.addEventListener('click', ()=>{
 img5.addEventListener('click', ()=>{
     som5.src = "./audio/livro.mp3"
     m5.play();
+})
+
+img6.addEventListener('click', ()=>{
+    som6.src = "./audio/madeira.mp3"
+    m6.play();
 })
